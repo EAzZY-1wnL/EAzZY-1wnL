@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EAzZY-1wnL
 - 👀 I’m interested in contributing to open source and learning about new tech 
-- 🌱 I’m currently learning on the go whatever seems to be appropriate while designing my portfolio website
+- 🌱 I’m currently trying to learn how app development works.
 - 📫 reach me on discord @EAzZY#3481 or linkedin @https://www.linkedin.com/in/madhur-mittal-19a314234/
 
 <!---
